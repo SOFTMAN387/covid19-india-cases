@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/covid19-india-cases.git/static/js/main.674b2f20.chunk.js",
+    "main.js.map": "/covid19-india-cases.git/static/js/main.674b2f20.chunk.js.map",
+    "runtime-main.js": "/covid19-india-cases.git/static/js/runtime-main.cfd61b12.js",
+    "runtime-main.js.map": "/covid19-india-cases.git/static/js/runtime-main.cfd61b12.js.map",
+    "static/css/2.9a8cfa92.chunk.css": "/covid19-india-cases.git/static/css/2.9a8cfa92.chunk.css",
+    "static/js/2.b0ae23ae.chunk.js": "/covid19-india-cases.git/static/js/2.b0ae23ae.chunk.js",
+    "static/js/2.b0ae23ae.chunk.js.map": "/covid19-india-cases.git/static/js/2.b0ae23ae.chunk.js.map",
+    "index.html": "/covid19-india-cases.git/index.html",
+    "static/css/2.9a8cfa92.chunk.css.map": "/covid19-india-cases.git/static/css/2.9a8cfa92.chunk.css.map",
+    "static/js/2.b0ae23ae.chunk.js.LICENSE.txt": "/covid19-india-cases.git/static/js/2.b0ae23ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfd61b12.js",
+    "static/css/2.9a8cfa92.chunk.css",
+    "static/js/2.b0ae23ae.chunk.js",
+    "static/js/main.674b2f20.chunk.js"
+  ]
+}
